@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="50183569-996a-4477-a1ad-b6ecf05197e3" name="Default" comment="" />
+    <ignored path="receitas.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="receitas" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="single-recipe.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/single-recipe.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="418" column="22" selection-start="11965" selection-end="11965" vertical-scroll-proportion="0.0" vertical-offset="7106" max-vertical-offset="7786">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/single.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="67" column="50" selection-start="2391" selection-end="2391" vertical-scroll-proportion="0.0" vertical-offset="1139" max-vertical-offset="1717">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4783" column="1" selection-start="125139" selection-end="125139" vertical-scroll-proportion="0.0" vertical-offset="80839" max-vertical-offset="81413">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flex-slider.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/includes/sliders/flex-slider.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="92" selection-start="1128" selection-end="1128" vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="1122">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="woocommerce-admin-pt_BR.po" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/i18n/languages/woocommerce-admin-pt_BR.po">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4202" column="63" selection-start="160803" selection-end="160803" vertical-scroll-proportion="0.0" vertical-offset="71313" max-vertical-offset="92344">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="100" column="0" selection-start="1913" selection-end="1913" vertical-scroll-proportion="0.0" vertical-offset="1147" max-vertical-offset="5253">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin-pt_PT.po" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/languages/admin-pt_PT.po">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="74" column="177" selection-start="3892" selection-end="3892" vertical-scroll-proportion="0.0" vertical-offset="1118" max-vertical-offset="171394">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="woocommerce-admin-pt_PT.po" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/i18n/languages/woocommerce-admin-pt_PT.po">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5017" column="68" selection-start="192055" selection-end="192055" vertical-scroll-proportion="0.0" vertical-offset="85146" max-vertical-offset="92157">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pt_PT.po" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/lang/pt_PT.po">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="987" column="8" selection-start="31758" selection-end="31758" vertical-scroll-proportion="0.0" vertical-offset="16632" max-vertical-offset="89896">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pt_BR.po" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/lang/pt_BR.po">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1131" column="8" selection-start="36993" selection-end="37002" vertical-scroll-proportion="0.17451523" vertical-offset="19101" max-vertical-offset="89930">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/themes/food-cook/includes/js/script.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/food-cook/lang/pt_BR_old.po" />
+        <option value="$PROJECT_DIR$/wp-content/themes/food-cook/styles/default.css" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/responsive-full-width-background-slider/inc/rfwbsFrontClass.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/revslider/views/templates/sliders.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/food-cook/includes/theme-functions.php" />
+        <option value="$PROJECT_DIR$/wp-includes/comment-template.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/food-cook/template-recipe-submit.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/food-cook/includes/config-meta-boxes.php" />
+        <option value="$PROJECT_DIR$/wp-content/languages/pt_BR.po" />
+        <option value="$PROJECT_DIR$/wp-content/themes/food-cook/lang/pt_PT.po" />
+        <option value="$PROJECT_DIR$/wp-content/themes/food-cook/content-recipe.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/ExpandingSearchBar/css/component.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/food-cook/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/food-cook/css/layout.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/food-cook/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/food-cook/single-recipe.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/food-cook/includes/sliders/flex-slider.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/food-cook/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/food-cook/custom.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/food-cook/lang/pt_BR.po" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="receitas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="receitas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="receitasaprovadas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="receitas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="receitasaprovadas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="receitas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="receitasaprovadas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="receitas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="receitasaprovadas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="food-cook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="receitas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="receitasaprovadas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="food-cook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ruralmakro" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistory" value="?&gt;" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\receitasaprovadas\wp-content\themes\food-cook\images\icons" />
+      <recent name="C:\wamp\www\receitasaprovadas\wp-content\themes\food-cook\images" />
+      <recent name="E:\development\workspaces\receitas" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\receitasaprovadas\wp-content\themes\food-cook\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Users\henri_000\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50183569-996a-4477-a1ad-b6ecf05197e3" name="Default" comment="" />
+      <created>1404304012166</created>
+      <updated>1404304012166</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37581274" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/css/woocommerce.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="79549" selection-start="79549" selection-end="79549" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="478" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/template-recipes-list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="426" column="9" selection-start="14881" selection-end="14881" vertical-scroll-proportion="10.538462" vertical-offset="7210" max-vertical-offset="14671" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="10" selection-start="586" selection-end="586" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1003" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/revslider/views/templates/sliders.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="109" selection-start="2114" selection-end="2114" vertical-scroll-proportion="0.0" vertical-offset="805" max-vertical-offset="1938" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/includes/theme-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="778" column="8" selection-start="28614" selection-end="28614" vertical-scroll-proportion="0.0" vertical-offset="13226" max-vertical-offset="27591" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1867" column="18" selection-start="61719" selection-end="61719" vertical-scroll-proportion="-10.269231" vertical-offset="31387" max-vertical-offset="49725" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1027" column="17" selection-start="29757" selection-end="29759" vertical-scroll-proportion="-1.3827161" vertical-offset="17279" max-vertical-offset="75616" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/languages/themes/twentytwelve-pt_BR.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="266" column="7" selection-start="8590" selection-end="8590" vertical-scroll-proportion="0.0" vertical-offset="4383" max-vertical-offset="5321" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/languages/themes/twentytwelve-pt_PT.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="266" column="7" selection-start="8487" selection-end="8487" vertical-scroll-proportion="0.0" vertical-offset="4383" max-vertical-offset="5321" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/comment-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="16" selection-start="184" selection-end="184" vertical-scroll-proportion="-0.83950615" vertical-offset="0" max-vertical-offset="37961" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/includes/theme-widgets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="34" selection-start="861" selection-end="861" vertical-scroll-proportion="-5.5384617" vertical-offset="179" max-vertical-offset="782" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/includes/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="490" column="12" selection-start="13366" selection-end="13366" vertical-scroll-proportion="0.33174226" vertical-offset="8191" max-vertical-offset="9911" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="30" selection-start="3157" selection-end="3161" vertical-scroll-proportion="-1.4444444" vertical-offset="1226" max-vertical-offset="1819" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/edit-form-advanced.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="487" column="6" selection-start="25417" selection-end="25417" vertical-scroll-proportion="0.0" vertical-offset="8279" max-vertical-offset="10625" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1766" column="9" selection-start="59529" selection-end="59529" vertical-scroll-proportion="0.0" vertical-offset="30022" max-vertical-offset="96747" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/template-recipe-submit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="293" column="84" selection-start="10774" selection-end="10782" vertical-scroll-proportion="-3.9615386" vertical-offset="4878" max-vertical-offset="10217" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/includes/meta-box/inc/fields/textarea.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="41" selection-start="788" selection-end="788" vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/includes/config-meta-boxes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="175" column="35" selection-start="5137" selection-end="5137" vertical-scroll-proportion="0.0" vertical-offset="2975" max-vertical-offset="4097" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/revslider/revslider_front.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="67" selection-start="1602" selection-end="1602" vertical-scroll-proportion="-6.9615383" vertical-offset="499" max-vertical-offset="1615" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/revslider/release_log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="469" column="13" selection-start="19171" selection-end="19171" vertical-scroll-proportion="0.46086955" vertical-offset="7814" max-vertical-offset="10863" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/theme-compat/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.7180233" vertical-offset="591" max-vertical-offset="935" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/template-home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="25" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/includes/theme-actions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1050" column="9" selection-start="54148" selection-end="54148" vertical-scroll-proportion="0.33333334" vertical-offset="17671" max-vertical-offset="30736" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/functions/admin-hooks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="53" selection-start="1326" selection-end="1326" vertical-scroll-proportion="0.0" vertical-offset="779" max-vertical-offset="4369" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="3" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="2703" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="12" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.0" vertical-offset="569" max-vertical-offset="8959" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="44" selection-start="888" selection-end="888" vertical-scroll-proportion="0.0" vertical-offset="646" max-vertical-offset="986" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="12" selection-start="1069" selection-end="1069" vertical-scroll-proportion="-18.26923" vertical-offset="69" max-vertical-offset="969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/functions/js/ui.datepicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="754" selection-start="754" selection-end="754" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="429" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/mailchimp-for-wp/readme.txt">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="291" column="10" selection-start="14725" selection-end="14725" vertical-scroll-proportion="-5.36" vertical-offset="4813" max-vertical-offset="11713" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/languages/pt_PT.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4379" column="7" selection-start="154809" selection-end="154809" vertical-scroll-proportion="0.0" vertical-offset="74300" max-vertical-offset="130866" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/content-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="37" selection-start="698" selection-end="698" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="986" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/content-recipe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="16" selection-start="1513" selection-end="1513" vertical-scroll-proportion="-19.615385" vertical-offset="306" max-vertical-offset="2448" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/includes/theme-shortcodes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1116" column="87" selection-start="28814" selection-end="28814" vertical-scroll-proportion="-5.1538463" vertical-offset="18328" max-vertical-offset="33133" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/content-recipelist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="105" column="87" selection-start="3238" selection-end="3238" vertical-scroll-proportion="-5.1538463" vertical-offset="1515" max-vertical-offset="2074" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/l10n.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="388" column="45" selection-start="13513" selection-end="13514" vertical-scroll-proportion="-1.4320987" vertical-offset="6395" max-vertical-offset="13702" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/languages/admin-pt_BR.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4494" column="205" selection-start="223990" selection-end="223990" vertical-scroll-proportion="-2.2545455" vertical-offset="76274" max-vertical-offset="173893" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/languages/pt_BR.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="273" column="8" selection-start="6843" selection-end="6843" vertical-scroll-proportion="0.0" vertical-offset="4494" max-vertical-offset="89488" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="30672" selection-start="72287" selection-end="72287" vertical-scroll-proportion="0.0" vertical-offset="384" max-vertical-offset="969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/lang/pt_PT.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="987" column="8" selection-start="31758" selection-end="31758" vertical-scroll-proportion="0.0" vertical-offset="16632" max-vertical-offset="89896">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/single-recipe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="418" column="22" selection-start="11965" selection-end="11965" vertical-scroll-proportion="0.0" vertical-offset="7106" max-vertical-offset="7786">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="50" selection-start="2391" selection-end="2391" vertical-scroll-proportion="0.0" vertical-offset="1139" max-vertical-offset="1717">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/i18n/languages/woocommerce-admin-pt_PT.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5017" column="68" selection-start="192055" selection-end="192055" vertical-scroll-proportion="0.0" vertical-offset="85146" max-vertical-offset="92157">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/includes/sliders/flex-slider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="92" selection-start="1128" selection-end="1128" vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="1122">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/styles/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4783" column="1" selection-start="125139" selection-end="125139" vertical-scroll-proportion="0.0" vertical-offset="80839" max-vertical-offset="81413">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="0" selection-start="1913" selection-end="1913" vertical-scroll-proportion="0.0" vertical-offset="1147" max-vertical-offset="5253">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/languages/admin-pt_PT.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="177" selection-start="3892" selection-end="3892" vertical-scroll-proportion="0.0" vertical-offset="1118" max-vertical-offset="171394">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/i18n/languages/woocommerce-admin-pt_BR.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4202" column="63" selection-start="160803" selection-end="160803" vertical-scroll-proportion="0.0" vertical-offset="71313" max-vertical-offset="92344">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/food-cook/lang/pt_BR.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1131" column="8" selection-start="36993" selection-end="37002" vertical-scroll-proportion="0.17451523" vertical-offset="19101" max-vertical-offset="89930">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
